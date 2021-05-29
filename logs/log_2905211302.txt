@@ -1,0 +1,8 @@
+caixa.sh
+gerar-log.sh
+listagem-raiz.sh
+log_2905211301.txt
+log_2905211302.txt
+logs
+ola.sh
+usuario-info.sh

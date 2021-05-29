@@ -1,0 +1,7 @@
+caixa.sh
+gerar-log.sh
+listagem-raiz.sh
+logs
+ola.sh
+usuario-info.sh
+2905211311

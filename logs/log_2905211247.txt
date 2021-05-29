@@ -1,0 +1,5 @@
+aula06.sh
+aula07.sh
+aula08.sh
+caixa.sh
+logs

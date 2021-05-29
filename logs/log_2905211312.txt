@@ -1,0 +1,8 @@
+caixa.sh
+gerar-log.sh
+listagem-raiz.sh
+logs
+ola.sh
+usuario-info.sh
+
+Data: 2905211312
