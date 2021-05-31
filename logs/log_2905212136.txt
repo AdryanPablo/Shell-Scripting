@@ -1,0 +1,11 @@
+caixa.sh
+gerar-log.sh
+LICENSE
+listagem-raiz.sh
+logs
+ola.sh
+raiz-quadrada.sh
+saida.sh
+usuario-info.sh
+
+Data: 2905212136
